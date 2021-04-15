@@ -1,0 +1,21 @@
+{
+  "name": "bnpne-drk",
+  "displayName": "BNPNE-DRK",
+  "description": "A DARK THEME FOR CONSTANT DEVELOPMENT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bnpne-drk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bnpne-drk.json"
+      }
+    ]
+  }
+}
